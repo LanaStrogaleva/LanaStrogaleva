@@ -12,7 +12,7 @@
 
 - :zap: Участвовала в Мастерской Яндекс Практикума в качестве тестировщика.
 
-- :zap: Тестировала интернет-магазин мебели.                           [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Online+Furniture+Store)](https://github.com/LanaStrogaleva/OnlineFurnitureStore)
+- :zap: Тестировала интернет-магазин мебели. <a target="_blank" href="https://github.com/LanaStrogaleva/OnlineFurnitureStore">OnlineFurnitureStore</a>
 
 - :zap: Прохожу курс по Java на JavaRush и с удовольствием решаю там задачи.
 
