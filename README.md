@@ -12,7 +12,7 @@
 
  :zap: Участвовала в Мастерской Яндекс Практикума в качестве тестировщика.
 
- :zap: Тестировала интернет-магазин мебели. <a target="_blank" href="https://github.com/LanaStrogaleva/OnlineFurnitureStore">OnlineFurnitureStore</a>
+ :zap: Тестировала интернет-магазин мебели. <a target="_blank" rel="noopener noreferrer" href="https://github.com/LanaStrogaleva/OnlineFurnitureStore">OnlineFurnitureStore</a>
 
  :zap: Прохожу курс по Java на JavaRush и с удовольствием решаю там задачи.<br/> <br/>
    <img src="https://github.com/LanaStrogaleva/LanaStrogaleva/blob/main/JavaRush-%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.png?20200803082248" title="youtrack" alt="youtrack" width="350" height="200"/>
@@ -48,6 +48,7 @@
 | ----------------------------------------------------------------| :---------------: |
 | practicum.yandex/ Инженер по тестированию                       | 08/2022 - 01/2023 |
 | practicum.yandex/ Автоматизатор тестирования на Java            | 08/2023 - 02/2024 |
+| JavaRush/ Java Syntax Pro                                       | 02/2024 - наст.вр |
 
 --- -->
 
