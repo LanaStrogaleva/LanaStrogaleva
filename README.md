@@ -8,7 +8,7 @@
 
  :zap: Завершила курс по основам тестирования от Яндекс Практикум!
 
- :zap: Завершила курс по автоматизации тестирования на Java от Яндекс Практикум!
+ :zap: Завершила курс по автоматизации тестирования на Java от Яндекс Практикум! <a target="_blank" href="https://github.com/LanaStrogaleva/WebTestingAutomation">WEB</a> <a target="_blank" href="https://github.com/LanaStrogaleva/APITestingAutomation">API</a> <a target="_blank" href="https://github.com/LanaStrogaleva/UnitTests">Unit</a>
 
  :zap: Участвовала в Мастерской Яндекс Практикума в качестве тестировщика.
 
