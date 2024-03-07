@@ -15,7 +15,7 @@
  :zap: Тестировала интернет-магазин мебели. <a target="_blank" href="https://github.com/LanaStrogaleva/OnlineFurnitureStore">OnlineFurnitureStore</a>
 
  :zap: Прохожу курс по Java на JavaRush и с удовольствием решаю там задачи.<br/> <br/>
-   <img src="https://github.com/LanaStrogaleva/LanaStrogaleva/blob/main/JavaRush-%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.png?20200803082248" title="youtrack" alt="youtrack" width="350" height="200"/>
+   <img src="https://github.com/LanaStrogaleva/LanaStrogaleva/blob/main/2024-03-07%D0%9C%D0%BE%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0.png?20200803082248" title="javaRush" alt="javaRash" width="350" height="200"/>
 
  :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lana.strogaleva@gmail.com)  [![Telegram Badge](https://img.shields.io/badge/-LanaStrog-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/LanaStrog)
 ---
