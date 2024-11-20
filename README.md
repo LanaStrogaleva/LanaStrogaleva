@@ -8,11 +8,7 @@
 Я мотивирована и вдохновляюсь возможностью постоянного роста и обучения. 
 
  :zap: Завершила курс по автоматизации тестирования на Java от Яндекс Практикум! <a target="_blank" href="https://github.com/LanaStrogaleva/WebTestingAutomation">WEB</a> <a target="_blank" href="https://github.com/LanaStrogaleva/APITestingAutomation">API</a> <a target="_blank" href="https://github.com/LanaStrogaleva/UnitTests">Unit</a>
-
- :zap: Участвовала в Мастерской Яндекс Практикума в качестве тестировщика.
-
- :zap: Тестировала интернет-магазин мебели. <a target="_blank" href="https://github.com/LanaStrogaleva/OnlineFurnitureStore">OnlineFurnitureStore</a>
-
+ 
  :zap: Прохожу курс по Java на JavaRush и с удовольствием решаю там задачи.<br/> <br/>
    <img src="https://github.com/LanaStrogaleva/LanaStrogaleva/blob/main/2024-03-26%20JavaRushProfile.png?20200803082248" title="javaRush" alt="javaRash" width="350" height="200"/>
 
